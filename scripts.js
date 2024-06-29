@@ -1,3 +1,3 @@
 document.getElementById('alertButton').addEventListener('click', function() {
-    alert('Button clicked!');
+    alert('Button clicked by Ozzy!');
 });
